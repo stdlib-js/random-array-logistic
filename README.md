@@ -391,6 +391,7 @@ logEach( '%f', x4 );
 
 ## See Also
 
+-   <span class="package-name">[`@stdlib/random-logistic`][@stdlib/random/logistic]</span><span class="delimiter">: </span><span class="description">generate pseudorandom numbers drawn from a logistic distribution.</span>
 -   <span class="package-name">[`@stdlib/random-base/logistic`][@stdlib/random/base/logistic]</span><span class="delimiter">: </span><span class="description">logistic distributed pseudorandom numbers.</span>
 
 </section>
@@ -476,6 +477,12 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/array/uint32]: https://github.com/stdlib-js/array-uint32
 
 [@stdlib/array/float64]: https://github.com/stdlib-js/array-float64
+
+<!-- <related-links> -->
+
+[@stdlib/random/logistic]: https://github.com/stdlib-js/random-logistic
+
+<!-- </related-links> -->
 
 </section>
 
